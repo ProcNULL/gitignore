@@ -1,0 +1,20 @@
+# Ignore Everything
+/*
+/*/
+
+# Except These
+!/src/
+!/resources/
+
+!.gitignore
+!.gitmodules
+
+!README*
+!LICENCE*
+!CONTRIBUTORS*
+!CONTRIBUTING*
+
+!/gradle/
+!build.gradle
+!gradlew
+!gradlew.bat
